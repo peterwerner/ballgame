@@ -38,6 +38,8 @@
   <gap:plugin name="org.apache.cordova.splashscreen"/>
   <gap:plugin name="org.apache.cordova.vibration"/>
 
+<preference name="phonegap-version" value="3.5.0" />
+
 <gap:plugin name="org.apache.cordova.battery-status" version="0.2.11" />
 <gap:plugin name="org.apache.cordova.camera" version="0.3.2" />
 <gap:plugin name="org.apache.cordova.console" version="0.2.11" />
