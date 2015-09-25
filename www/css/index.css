@@ -1,0 +1,11 @@
+html, body, div.wrap {
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+}
+
+#canvasMain {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
